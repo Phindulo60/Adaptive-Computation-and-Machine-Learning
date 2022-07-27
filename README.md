@@ -1,7 +1,7 @@
 # Adaptive-Computation-and-Machine-Learning
 This repository will consist of all the programming assessments i had for a Wits University honours course(Adaptive Computation and Machine Learning)
 
-##In Assignment 1 we were required to:
+## In Assignment 1 we were required to:
 Implement linear regression and see it work on a simple dataset of our
 choice. 
 Furthermore what was required is:
@@ -13,7 +13,7 @@ learning
 all the above stages)
 
 
-##In Assignment 1 we were required to:
+## In Assignment 1 we were required to:
 Implementing a neural network from first principles and exploring use of different
 activation functions and different network architectures.
 Furthermore what was required is:
