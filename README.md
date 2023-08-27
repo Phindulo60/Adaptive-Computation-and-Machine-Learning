@@ -13,7 +13,7 @@ learning
 all the above stages)
 
 
-## In Assignment 1 we were required to:
+## In Assignment 2 we were required to:
 Implementing a neural network from first principles and exploring use of different
 activation functions and different network architectures.
 Furthermore what was required is:
